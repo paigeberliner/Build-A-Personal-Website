@@ -3,3 +3,11 @@ body {
     color: cornsilk;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#Custom-About-Me {
+    color: navy;
+    border: solid;
+    border-color: ;
+    background-color: white;
+    width: auto;
+}
